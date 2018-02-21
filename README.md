@@ -1,1 +1,3 @@
-# tdp11-react_flickr_gallery
+# React Flickr Gallery
+
+**UNDER CONSTRUCTION**
